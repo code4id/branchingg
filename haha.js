@@ -1,1 +1,1 @@
-console.log('wlww');
+console.log('maafkan');
